@@ -17,7 +17,7 @@ I build complete digital products for real businesses, from the database and int
 | [**Eylea Exchange System**](https://github.com/manar-altumah22/eylea-internal-system) | Internal management system for a currency exchange business: customers, transactions, receipts, reports | React, TypeScript, Supabase, Tailwind |
 | [**Eylea Exchange Website**](https://github.com/manar-altumah22/eylea-exchange-website) · [live](https://eyleaexchange.com) | Business website with a live rates ticker and currency converter | HTML, CSS, JavaScript, Netlify |
 | [**Dr. Moe Medical Esthetics**](https://github.com/manar-altumah22/dr-moe-website) · [live](https://drmoe.netlify.app) | Luxury clinic website, plus a receipt maker and sales dashboard | HTML, CSS, JavaScript, Netlify |
-| **Bridge** *(coming soon)* | Mobile app for remembering people you meet and getting warm intros through friends | React Native, Expo, Supabase, AI |
+| **Bridge** · [live demo](https://bridge-app-demo.netlify.app) | Mobile app for remembering people you meet and getting warm intros through friends | React Native, Expo, Supabase, AI |
 
 ### 🛠️ Tech
 
